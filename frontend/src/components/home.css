@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.home img{ 
+    height: 500px;
+    width: 100%;
+margin: 10px;
+}
+.home .row{
+    width: 100%;
+}
+.home .row .text{
+    background: linear-gradient(to left, #7f6f76, #f4eeee);
+    height: 500px;
+    width: 100%;
+margin: 10px;
+  
+}
+.home .col h1{
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    margin: auto;
+    text-align: center;
+}
+.home .col h6{
+    justify-content: center;
+    align-items: center;
+   padding-top: 50px;
+    margin: auto;
+    text-align: center;
+
+}
+.m1 .carousel-inner{
+    border-radius: 5rem 0 0;
+}
+.m2 .carousel-inner{
+    border-radius: 0 0 5rem;
+}
+
+.c{
+   right: auto;
+}
+.home .add1{
+    
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+     max-width: auto;
+      
+}
+.m1{
+   width: 100%;
+   background: linear-gradient(to right, #7f6f76, #f4eeee);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 5rem 0 ;
+  
+}
+.m2{
+    width: 100%;
+    background: linear-gradient(to left, #7f6f76, #f4eeee);
+     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+     border-radius:  5rem 0;
+   
+ }
+.tab{
+    font-size: 50px;
+}
+.lat{
+    font-size: 50px;
+    color: rgb(105, 69, 69);
+}
+.sml{
+    font-size: 30px;
+    color: rgb(105, 69, 69);
+  word-spacing: 15px;
+}
+Button{
+    background-color: black;
+}
+@media only screen and (max-width: 1300px) {
+  .home img{ 
+    height: 600px;
+    width: 100%;
+margin: 10px;
+}
+.home.row{
+    width: 100%;
+}
+.home .row .text{
+    background: linear-gradient(to left, #7f6f76, #f4eeee);
+    height:600px;
+    width: 100%;
+margin: 10px;
+  
+}
+
+  }
+
+  @media only screen and (max-width: 700px) {
+    .home img{ 
+        height: 700px;
+     
+ 
+    }
+    
+    .home .row .text{
+      
+        height:700px;
+       
+      
+    }
+    .home .row .text1{
+            overflow: hidden;
+    }
+  }
+  

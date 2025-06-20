@@ -1,0 +1,70 @@
+/* CSS (about.css) */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+}
+
+.about {
+  width: 90%;
+  
+  margin: 20px auto;
+  padding: 20px;
+  background: linear-gradient(to right, #7f6f76, #f4eeee);
+  color: rgb(7, 2, 2);
+  box-shadow: rgba(0, 0, 0, 0.35) 5px 5px 15px 5px;
+}
+
+.about-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.about-item {
+  width: calc(50% - 20px); /* 50% width with spacing */
+  margin-bottom: 20px;
+  padding: 20px;
+ 
+  position: relative;
+}
+
+.about-item h3 {
+  margin-top: 0;
+}
+
+.about-item span {
+  color: chocolate;
+  position: absolute;
+  left: -30px;
+  transform: translateY(-50%) rotate(-90deg);
+}
+
+/* Different margin top values for each item */
+.about-item:nth-child(1) {
+  margin-top: 0;
+}
+
+.about-item:nth-child(2) {
+  margin-top: 50px;
+}
+
+.about-item:nth-child(3) {
+  margin-top: 0px;
+}
+
+.about-item:nth-child(4) {
+  margin-top: 100px;
+}
+
+/* Media Query for responsiveness */
+@media only screen and (max-width: 768px) {
+  .about-item {
+    width: 100%; /* Full width on smaller screens */
+  }
+
+  .about-content {
+    flex-direction: column; /* Display items in a column */
+  }
+}

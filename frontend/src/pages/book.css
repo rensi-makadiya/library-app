@@ -1,0 +1,54 @@
+.container-fluid{
+  background: linear-gradient(to right, #ffffff, #a29999);
+}
+.card-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 1px 1px 3px #242425;
+  height: 480px;
+  width: calc(100% - 20px); /* Adjust the width of each card */
+  margin: 10px; /* Adjust the margin between cards */
+}
+
+.card:hover {
+  box-shadow: 1px 1px 8px #242425;
+  background-color: #ffffff;
+  transform: translateY(-2px);
+}
+
+.card img {
+  width: 100%;
+  max-height: 180px;
+  border: 1px solid #201f1f;
+}
+
+.card article {
+  font-style: italic;
+  color: #666;
+  margin: 3px;
+}
+
+.card h3 {
+  color: #333;
+}
+
+.card p {
+  color: #777;
+  margin: 3px;
+}
+
+.card h2 {
+  margin: 10px;
+}
+
+.card Button {
+  margin-top: auto; /* Ensures the button is at the bottom */
+}

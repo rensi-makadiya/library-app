@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.rat{
+  position: relative;
+  width:95%;
+  height: 650px;
+  background: linear-gradient(to left, #7f6f76, #f4eeee);
+  color: rgb(7, 2, 2);
+  box-shadow: rgba(0, 0, 0, 0.35) 5px 5px 15px 5px;
+  margin-left: 40px;
+}
+.rating {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+ 
+}
+
+.rating-container {
+  background-color:transparent; /* Adjusted background color and opacity */
+  width: 300px;
+  height: 430px;
+  outline: rgb(86, 46, 46);
+ 
+  border: 1px solid black;
+  display: flex; /* Ensuring flex display */
+  flex-direction: column; /* Rating components stacked vertically */
+  align-items: center; /* Centering rating components horizontally */
+  justify-content: center; /* Centering rating components vertically */
+  margin-left: 20px; /* Adjusted margin */
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.star-widget {
+  font-size: 30px;
+  padding-top: 20px;
+}
+
+.star-widget span {
+  cursor: pointer;
+  margin: 0 5px;
+}
+
+.star-widget span:hover,
+.star-widget span:hover ~ span {
+  color: #ffc107;
+}
+
+.star-latter {
+  margin-top: 7px;
+}
+
+.feedback {
+  margin-bottom: 25px;
+}
+
+.area {
+  resize: none;
+  width: 200px;
+}
+
+
+
+.gif {
+  margin-left: 20px; /* Adjusted margin */
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.im {
+  max-width: 100%; /* Ensuring image stays within container */
+  height: 430px; /* Maintaining aspect ratio */
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

@@ -1,0 +1,405 @@
+[
+    {
+        "name": "Pedagogy of the Oppressed",
+        "image":"https://upload.wikimedia.org/wikipedia/en/2/28/Pedagogy_of_the_Oppressed_%281968_Spanish%29.jpg",
+        "price":200,
+        "author":"Paulo Freire",
+        "description":"With a substantive new introduction on Freire's life and the remarkable impact of  ",
+        "category":1
+
+    },
+    {
+        "name": "How Children Succeed",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMiBq4C8f9kpbDna7VSCs_mnHXnc3Q2SS4Eg16fuEuvg&s",
+        "price":220,
+        "author":"paul tough",
+        "description":"The story we usually tell about childhood and success is the one about intelligence",
+        "category":1
+
+    },
+    {
+        "name": "The Writing Rope",
+        "image":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQufECCDUzGLscZ79alMaFvgNkcFTmXb5FJmHKjyCTh356l3hiC",
+        "price":250,
+        "author":"Joan Sedita",
+        "description":"Perfect for professional development, this invaluable planning guide will help teachers",
+        "category":1
+
+    },
+    {
+        "name": "The Writing Revolution",
+        "image":"https://m.media-amazon.com/images/I/910ZcgNxYjL._AC_UF1000,1000_QL80_.jpg",
+        "price":200,
+        "author":"Judith C. Hochman",
+        "description":"The Writing Revolution (TWR) provides a clear method of instruction that you can use no ",
+        "category":1
+
+    },
+    {
+        "name": "The Art and Science",
+        "image":"https://m.media-amazon.com/images/I/51K830alqmL._AC_UF1000,1000_QL80_.jpg",
+        "price":100,
+        "author":"Christopher Such",
+        "description":"The essential guide to the science behind reading and its practical implications",
+        "category":1
+
+    },
+    {
+        "name": "shifting the balance",
+        "image":"https://m.media-amazon.com/images/I/4184IT54fiL.jpg",
+        "price":280,
+        "author":"Jan Burkins",
+        "description":" 6 Ways to Bring the Science of Reading into the Balanced Literacy Classroom.",
+        "category":1
+
+    },
+    {
+        "name": "Reading Above the Fray",
+        "image":"https://m.media-amazon.com/images/I/71-edmz9SdL._AC_UF1000,1000_QL80_.jpg",
+        "price":180,
+        "author":"Julia B. Lindsey",
+        "description":"Teacher-approved instructional “swaps” to improve early reading instruction.",
+        "category":1
+
+    },
+    {
+        "name": "7 Mighty Moves",
+        "image":"https://m.media-amazon.com/images/I/81PhkSi+M5L._AC_UF1000,1000_QL80_.jpg",
+        "price":210,
+        "author":"Lindsay Kemeny",
+        "description":"primary reading expert and classroom teacher Lindsay Kemeny shares seven ways K–3",
+        "category":1
+
+    },
+    {
+        "name": "Ugly Love",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIq3HrejNW2GYvcjARKFK4AyRicI8GQmbE98zb8J-ULw&s",
+        "price":290,
+        "author":"Colleen Hoover",
+        "description":"When Tate Collins meets airline pilot Miles Archer, she knows it isn’t love at first sight",
+        "category":2
+
+    },
+    {
+        "name": "Things We Never Got Over",
+        "image":"https://m.media-amazon.com/images/I/81WklxcuSZL._AC_UF1000,1000_QL80_.jpg",
+        "price":240,
+        "author":"Lucy Score",
+        "description":"bad-boy barber Knox prefers to live his life the way he takes his coffee: Alone. ",
+        "category":2
+
+    },
+    {
+        "name": "Icebreaker",
+        "image":"https://m.media-amazon.com/images/I/71pt0UrzwLL._AC_UF1000,1000_QL80_.jpg",
+        "price":200,
+        "author":"Hannah Grace",
+        "description":"Anastasia Allen has worked her entire life for a shot at Team USA.",
+        "category":2
+
+    },
+    {
+        "name": "Love, Theoretically",
+        "image":"https://m.media-amazon.com/images/I/81vNIEwyS9L._AC_UF1000,1000_QL80_.jpg",
+        "price":240,
+        "author":"Ali Hazelwood",
+        "description":"The many lives of theoretical physicist Elsie Hannaway have finally caught up with her.",
+        "category":2
+
+    },
+    {
+        "name": "Wildfire",
+        "image":"https://m.media-amazon.com/images/I/71FKJlzloRL._AC_UF1000,1000_QL80_.jpg",
+        "price":290,
+        "author":"Hannah Grace",
+        "description":"Maple Hills students Russ Callaghan and Aurora Roberts cross paths at a party celebrating",
+        "category":2
+
+    },
+    {
+        "name": "Hopeless",
+        "image":"https://m.media-amazon.com/images/I/71ZnF9mTahL._AC_UF1000,1000_QL80_.jpg",
+        "price":200,
+        "author":"Elsie Silver",
+        "description":"Beau Eaton is the town prince, a handsome military hero with a tortured past.",
+        "category":2
+
+    },
+    {
+        "name": "Love Redesigned",
+        "image":"https://m.media-amazon.com/images/I/91VqUHy-nGL._AC_UF1000,1000_QL80_.jpg",
+        "price":260,
+        "author":"Lauren Asher",
+        "description":"when she returns to Lake Wisteria, I fully intend to avoid the interior designer.",
+        "category":2
+
+    },
+    {
+        "name": "The Graham Effect",
+        "image":"https://m.media-amazon.com/images/I/71ydRtxIvgL._AC_UF1000,1000_QL80_.jpg",
+        "price":240,
+        "author":"Elle Kennedy",
+        "description":"Gigi Graham has exactly three goals: qualify for the women’s national hockey team",
+        "category":2
+
+    },
+    {
+        "name":" The Amityville Horror",
+        "image":"https://upload.wikimedia.org/wikipedia/en/6/60/Amityvillecover.jpg",
+        "price": 200 ,
+        "author":" Jay Anson ",
+        "description":" he psychic phenomena that followed created the most terrifying experience the Lutz  ",
+        "category":4
+    },
+    {
+        "name":"The Exorcist ",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQljakxO4lq-xUHGW42jI05WlPDzh_QNVATaGH2yMTpA&s",
+        "price": 240 ,
+        "author":" William Peter Blatty ",
+        "description":" these abruptly worsen into violent fits of appalling foul-mouthed curses ",
+        "category":4
+    },
+    {
+        "name":"Stephen King ",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_prOnbd5tAbfnjsT32O10yg6DwwwUqJCQ9Z0hHvl8LA&s",
+        "price": 200 ,
+        "author":"the shining",
+        "description":" Hotel is the perfect chance for a fresh start. As the off-season caretake ",
+        "category":4
+    },
+    {
+        "name":"Summer of Night",
+        "image":"https://m.media-amazon.com/images/I/71ju0kMTFXL._AC_UF1000,1000_QL80_.jpg",
+        "price": 200 ,
+        "author":"Dan Simmons",
+        "description":"then a dark cloud threatens the bright promise of summer vacation",
+        "category":4
+    },
+    {
+        "name":"Boys in the Valley",
+        "image":"https://m.media-amazon.com/images/I/91BnJ-5qEYL._AC_UF1000,1000_QL80_.jpg",
+        "price": 280 ,
+        "author":"Philip Fracassi",
+        "description":"under the watchful eyes of several priests, thirty boys work, learn, and worship",
+        "category":4
+    },
+    {
+        "name":"The Handyman Method",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI8j6N5yx5tBuEFwzQnLFz2_y3d9SACBhwXYhhxHsW9Q&s",
+        "price": 250 ,
+        "author":"Nick Cutter",
+        "description":"A chilling domestic story of terror for fans of Black Mirror and The Amityville Horror.",
+        "category":4
+    },
+    {
+        "name":"Mister Magic",
+        "image":"https://m.media-amazon.com/images/I/91WGv-31S1L._AC_UF1000,1000_QL80_.jpg",
+        "price": 280 ,
+        "author":"Kiersten White",
+        "description":"Thirty years after a tragic accident shut down production of the classic ",
+        "category":4
+    },
+    {
+        "name":"Black Sheep",
+        "image":"https://m.media-amazon.com/images/I/51Bc1WrlO1L._SY200_QL15_.jpg",
+        "price": 200 ,
+        "author":"Rachel Harrison",
+        "description":"A cynical twentysomething must confront her unconventional family’s dark",
+        "category":4
+    },
+    {
+        "name":"Middletide",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtjA3Qk1I7pOZ6oVC638qAJmauNKlTls-CBuY_lOwVvw&s",
+        "price": 230 ,
+        "author":"Sarah Crouch",
+        "description":" gripping and intensely atmospheric debut, disquiet descends on a small town ",
+        "category":5
+    },
+    {
+        "name":"Where the Dead Wait",
+        "image":"https://m.media-amazon.com/images/I/71QrAs8PSqL._AC_UF1000,1000_QL80_.jpg",
+        "price": 260 ,
+        "author":"Ally Wilkes",
+        "description":"William Day should be an acclaimed Arctic explorer. But after a failed expedition",
+        "category":5
+    },
+    {
+        "name":"This Wretched Valley",
+        "image":"https://m.media-amazon.com/images/I/81ligcp8QSL._AC_UF1000,1000_QL80_.jpg",
+        "price": 290 ,
+        "author":"Jenny Kiefer",
+        "description":"This nail-biting, bone-chilling survival horror novel is inspired by the infamous ",
+        "category":5
+    },
+    {
+        "name":"Your Shadow Half Remains",
+        "image":"https://m.media-amazon.com/images/I/819pZ7RdrsL._AC_UF1000,1000_QL80_.jpg",
+        "price": 220 ,
+        "author":"Sunny Moraine",
+        "description":"Riley has not seen a single human face in longer than she can reckon. ",
+        "category":5
+    },
+    {
+        "name":"Last Night",
+        "image":"https://m.media-amazon.com/images/I/8175u1ynI5L._AC_UF1000,1000_QL80_.jpg",
+        "price": 260 ,
+        "author":"Luanne Rice",
+        "description":"A fierce blizzard is burying the eastern seaboard, but on the icy Rhode Island",
+        "category":5
+    },
+    {
+        "name":"The Lies You Wrote",
+        "image":"https://m.media-amazon.com/images/I/41Sjt8pHCAL.jpg",
+        "price": 200 ,
+        "author":"Brianna Labuskes",
+        "description":"The double murder of a married couple in a small Washington town draws FBI ",
+        "category":5
+    },
+    {
+        "name":"Almost Surely Dead",
+        "image":"https://m.media-amazon.com/images/I/51Mgk3GbIbL.jpg",
+        "price": 270 ,
+        "author":"Amina Akhtar",
+        "description":"Dunia Ahmed lives an ordinary life—or she definitely used to. Now she is the true",
+        "category":5
+    },
+    {
+        "name":"Don't Forget Me ",
+        "image":"https://m.media-amazon.com/images/I/81oYg4hGpIL._AC_UF1000,1000_QL80_.jpg",
+        "price": 230 ,
+        "author":"Rea Frey",
+        "description":"When a body is presumed to be her missing husband’s, a woman must unravel",
+        "category":5
+    },
+    {
+        "name":"Where the Sidewalk Ends",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1pO-wJs-jeNir-U_pcKlwQg55ubw_s7mlPDrreXNfqw&s",
+        "price": 240 ,
+        "author":"Shel Silverstein",
+        "description":"Come in... for where the sidewalk ends, Shel Silverstein's world begins.",
+        "category":3
+    },
+    {
+        "name":"milk and honey",
+        "image":"https://m.media-amazon.com/images/I/71Eq55V2AvL._AC_UF1000,1000_QL80_.jpg",
+        "price": 230 ,
+        "author":"Rupi Kaur",
+        "description":"Milk and Honey is a collection of poetry and . About the experience of violence",
+        "category":3
+    },
+    {
+        "name":"To Kill a Mockingbird",
+        "image":"https://m.media-amazon.com/images/I/41j-s9fHJcL.jpg",
+        "price": 280 ,
+        "author":"Harper Lee",
+        "description":"The unforgettable novel of a childhood in a sleepy Southern town and the crisis",
+        "category":3
+    },
+    {
+        "name":"Lord of the Flies",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qCyD-z4SWlXlXVV63uD49WULZY0zrnz9-uqp5IjTPw&s",
+        "price": 270 ,
+        "author":"William Golding",
+        "description":"At the dawn of the next world war, a plane crashes on an uncharted island, stranding",
+        "category":3
+    },
+    {
+        "name":"Of Mice and Men",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Of_Mice_and_Men_%281937_1st_ed_dust_jacket%29.jpg",
+        "price": 230 ,
+        "author":"John Steinbeck",
+        "description":"I got you to look after me, and you got me to look after you, and that's why.",
+        "category":3
+    },
+    {
+        "name":"Romeo and Juliet",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdU9PoHPqHGHcm06GYtn2XAs5CaMRul_vATQfd3TcZJA&s",
+        "price": 210 ,
+        "author":"William Shakespeare",
+        "description":"In Romeo and Juliet, Shakespeare creates a violent world, in which two young people",
+        "category":3
+    },
+    {
+        "name":"The Odyssey",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwvKXtm4iPsd6S29B55VH7ViGWqQAsw0MxEO5UcyoXSg&s",
+        "price": 260 ,
+        "author":"Homer",
+        "description":"Sing to me of the man, Muse, the man of twists and turns",
+        "category":3
+    },
+    {
+        "name":"Animal Farm",
+        "image":"https://m.media-amazon.com/images/I/71JUJ6pGoIL._AC_UF1000,1000_QL80_.jpg",
+        "price": 250 ,
+        "author":"George Orwell",
+        "description":"A farm is taken over by its overworked, mistreated animals. With flaming idealism",
+        "category":3
+    },
+    {
+        "name":"Praisesong for the Kitchen ",
+        "image":"https://m.media-amazon.com/images/I/91xWp-pKCLL._AC_UF1000,1000_QL80_.jpg",
+        "price": 200 ,
+        "author":"Crystal Wilkinson",
+        "description":"A lyrical culinary journey that explores the hidden legacy of Black Appalachians",
+        "category":6
+    },
+    {
+        "name":"Tree. Table. Book.",
+        "image":"https://m.media-amazon.com/images/I/51EsQQ-EtqL.jpg",
+        "price": 203 ,
+        "author":"Lois Lowry",
+        "description":"Everyone knows the two Sophies are best friends. One is in elementary school",
+        "category":6
+    },
+    {
+        "name":"Coyote Lost and Found",
+        "image":"https://m.media-amazon.com/images/I/81pynzTyRNL._AC_UF1000,1000_QL80_.jpg",
+        "price": 250 ,
+        "author":"Dan Gemeinhart",
+        "description":"It's been almost a year since Coyote and her dad left the road behind and settled down",
+        "category":6
+    },
+    {
+        "name":"Dust",
+        "image":"https://m.media-amazon.com/images/I/81ZivILuSQL._AC_UF1000,1000_QL80_.jpg",
+        "price": 280 ,
+        "author":"Dusti Bowling",
+        "description":"A girl who struggles to breathe befriends a boy who seems shrouded in dust.",
+        "category":6
+    },
+    {
+        "name":"Maid for It",
+        "image":"https://m.media-amazon.com/images/I/61takdmjg+L._AC_UF1000,1000_QL80_.jpg",
+        "price": 250 ,
+        "author":"Jamie Sumner",
+        "description":"From the acclaimed author of Roll with It comes a relatable and deeply moving middle",
+        "category":6
+    },
+    {
+        "name":"Something Like Home",
+        "image":"https://m.media-amazon.com/images/I/915C3ec-o1L._AC_UF1000,1000_QL80_.jpg",
+        "price": 240 ,
+        "author":"Andrea Beatriz Arango",
+        "description":"A novel in verse in which a lost dog helps a lonely girl find a way home to her family",
+        "category":6
+    },
+    {
+        "name":"Mascot",
+        "image":"https://m.media-amazon.com/images/I/51GoRp1sckL._AC_UF1000,1000_QL80_.jpg",
+        "price": 220 ,
+        "author":"Charles Waters",
+        "description":"In Rye, Virginia, just outside Washington, DC, people work hard, kids go to school",
+        "category":6
+    },
+    {
+        "name":"Duel",
+        "price": 290 ,
+        "image":"https://m.media-amazon.com/images/I/814rEn1DKSL._AC_UF1000,1000_QL80_.jpg",
+        "author":"Jessixa Bagley",
+        "description":"A rivalry between sisters culminates in a fencing duel in this funny and emotional ",
+        "category":6
+    }
+
+   
+
+]
