@@ -32,7 +32,7 @@ A full-featured Library Management Web App built with **React** and **Node.js**,
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, CSS
-- **Backend**: Node.js, Express.js
+- **Backend**: Node.js
 - **Database**: MongoDB
 - **Authentication**: Email-password login
 
